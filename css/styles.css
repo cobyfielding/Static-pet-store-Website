@@ -39,6 +39,7 @@ a:hover {
 	background-size:cover;
 	background-position:center;
 	height:450px;
+	margin-top:1em;
 }
 
 .jumbotron h2 {
@@ -47,5 +48,52 @@ a:hover {
 	color:#fff;
 }
 
+.bg {
+	background-color:lightgray;
+	border:solid 5px lightgray;
+	padding:10px;
+}
+.mf {
+	padding-right: 0px;
+	padding-left: 15px;
+}
+footer {
+	height: 200px;
+	background-color: black;
+	padding:10px;
+}
 
+footer {
+	color:white;
+}
 
+.big {
+	font-size: 5em;
+	color:grey;
+
+}
+
+footer a {
+	color:grey;
+}
+
+.copyright {
+	font-size:10px;
+	text-align:center;
+	color:grey;
+}
+.small {
+	height:100%;
+	width:100%;
+	text-align:center;
+}
+.small li {
+		display:inline;
+		font-size:3em;
+		margin:0 20px;
+	}
+
+.small ul {
+	margin:0 auto;
+	padding:0 30px;
+}
